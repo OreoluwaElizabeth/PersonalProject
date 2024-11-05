@@ -1,0 +1,29 @@
+.header {
+    background-color: beige;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: coral;
+}
+
+a:hover {
+    color: purple;
+}
